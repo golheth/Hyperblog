@@ -1,5 +1,6 @@
 datos
 mis datos
 muchos mas datos 
-datos secretos 
 datos no mios
+ ahora se que tilix es mejor que terminal
+ y es un mensaje publico
