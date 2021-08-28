@@ -1,6 +1,11 @@
 body 
 {
+<<<<<<< HEAD
     color: turquoise;    text-align: center;
+=======
+    color: purple;
+    text-align: center;
+>>>>>>> cabecera
     font-family: Arial;
 
 }
