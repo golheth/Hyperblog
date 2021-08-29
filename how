@@ -1,0 +1,42 @@
+[33mcommit 09e2fd94a986f232645b060ddbc6db7c2391da77[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 6675f66 c03615a
+Author: golheth <golheth@gmail.com>
+Date:   Sat Aug 28 20:10:52 2021 -0300
+
+    solucione el conflicto de las ramas al fusionar
+
+[33mcommit 6675f6650f8722644f5e81c8480fb4496364c710[m
+Author: golheth <golheth@gmail.com>
+Date:   Sat Aug 28 20:06:38 2021 -0300
+
+    cabie el color y agregue texto
+
+[33mcommit c03615ac6a90ce91913a0fe2c4fc97064f57c364[m[33m ([m[1;32mcabecera[m[33m)[m
+Author: golheth <golheth@gmail.com>
+Date:   Sat Aug 28 20:04:39 2021 -0300
+
+    modifique un parrafo y el color del texto
+
+[33mcommit 6156a8d207201e6c07204c93621d2dc7c782ed44[m
+Author: golheth <golheth@gmail.com>
+Date:   Sat Aug 28 17:18:18 2021 -0300
+
+    cabecera de juan
+
+[33mcommit c4fd9b933b104f571e0955e06e9ab73eb51a4e27[m
+Author: golheth <golheth@gmail.com>
+Date:   Fri Aug 20 16:20:50 2021 -0300
+
+    arranco mi proyecto real con html y css
+
+[33mcommit 646c20383a6923142adf558ab64df32abf514922[m
+Author: golheth <golheth@gmail.com>
+Date:   Fri Aug 20 14:50:04 2021 -0300
+
+    mensaje publico
+
+[33mcommit 183f1b8c2a820501b0a41bf1578423a6a30ed60c[m
+Author: golheth <golheth@gmail.com>
+Date:   Fri Aug 20 14:38:41 2021 -0300
+
+    mensaje secreto
